@@ -1,0 +1,19 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+db.sqlite3
+.env
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# Virtual Environment
+venv/
+vishal/   # ← Your virtual environment folder
+
+# Static/media (optional if generated files)
+staticfiles/
+media/
